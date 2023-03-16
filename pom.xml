@@ -10,7 +10,6 @@
 
     <packaging>jar</packaging>
 
-    <!-- 로컬에서는 테스트 문제로 6.2.2를 사용하자 -->
     <properties>
         <elasticsearch.version>8.6.0</elasticsearch.version>
         <lucene.version>9.4.2</lucene.version>
